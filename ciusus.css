@@ -1,0 +1,13 @@
+body{
+background-size:cover;
+}
+canvas{
+    box-shadow: 5px 5px 5px dimgrey;
+    border-radius: 100px;
+    margin-top: 60px;
+}
+a{
+    float: right;
+    margin: 5px;
+    cursor: s-resize;
+}
